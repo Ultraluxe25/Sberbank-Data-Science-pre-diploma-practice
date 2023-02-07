@@ -1,1 +1,1 @@
-# Sberbank Data Science pre-diploma practise
+# Sberbank Data Science pre-diploma practice
